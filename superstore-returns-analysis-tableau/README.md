@@ -18,11 +18,11 @@ Multiple perspectives were analyzed to understand return behavior:
 
 The Tableau dashboard allows users to explore return patterns interactively.
 
-[View the Tableau Story] ((https://public.tableau.com/views/StorytellingwithDataProjectcorrection_17657316952720/SuperstoreReturnsAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the Tableau Story](https://public.tableau.com/views/StorytellingwithDataProjectcorrection_17657316952720/SuperstoreReturnsAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
 
-![Tableau Dashboard]<img width="1428" height="774" alt="Screenshot 2026-03-05 214911" src="https://github.com/user-attachments/assets/feec1aa4-34a7-49df-b92f-ed35ba7692da" />
+[Tableau Dashboard]<img width="1428" height="774" alt="Screenshot 2026-03-05 214911" src="https://github.com/user-attachments/assets/feec1aa4-34a7-49df-b92f-ed35ba7692da" />
 
 
 ## Tools
