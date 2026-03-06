@@ -20,8 +20,8 @@ You can view the interactive Power BI dashboard here:
 
 ## Dashboard Preview
 
-![Power BI Dashboard](<img width="1479" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/35485a99-9046-45d1-a24b-11ef1f46b695" />
-)
+![Power BI Dashboard](dashboard.png)
+
 
 ## Tools
 - Power BI
