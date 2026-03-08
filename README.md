@@ -1,4 +1,4 @@
-# Business & Data Analytics Portfolio
+# Business Analytics Portfolio
 
 This repository showcases analytics projects focused on solving **business and product problems using data analysis, visualization, and user behavior insights**.
 
