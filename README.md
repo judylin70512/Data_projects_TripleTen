@@ -8,67 +8,61 @@ My interests include **Product, Growth, and Marketing Analytics**, where data is
 
 # Projects
 
-## Customer Retention Cohort Analysis (Power BI)
+## [Customer Retention Cohort Analysis (Power BI)](powerbi-customer-retention-analysis)
 
-**Focus:** Customer retention | Lifecycle analysis | Business insights
+**Focus:** Customer retention | Lifecycle analysis | Business insights  
 
 Analyzed customer retention patterns using cohort analysis to understand how user engagement evolves over time and identify opportunities to improve long-term retention.
 
 **Key Skills**
 
-* Cohort analysis
-* Retention analysis
-* Customer lifecycle insights
-* Dashboard development
+- Cohort analysis  
+- Retention analysis  
+- Customer lifecycle insights  
+- Dashboard development  
 
 **Tools**
 
-Power BI, Excel
-
-[View Project](powerbi-customer-retention-analysis)
+Power BI, Excel  
 
 ---
 
-## Product Funnel Sequence Analysis
+## [Product Funnel Sequence Analysis](product-funnel-sequence-analysis)
 
-**Focus:** Conversion analysis | Product analytics | User behavior
+**Focus:** Conversion analysis | Product analytics | User behavior  
 
-Analyzed user conversion across a purchase funnel using event-level data.
+Analyzed user conversion across a purchase funnel using event-level data.  
 Compared **Simple Funnel calculations** with **Sequence Funnel logic** to measure true user progression through the product journey.
 
 **Key Skills**
 
-* Funnel analysis
-* Conversion rate analysis
-* Event sequence validation
-* User behavior insights
+- Funnel analysis  
+- Conversion rate analysis  
+- Event sequence validation  
+- User behavior insights  
 
 **Tools**
 
-Excel / Google Sheets
-
-[View Project](product-funnel-sequence-analysis)
+Excel / Google Sheets  
 
 ---
 
-## Superstore Returns Analysis (Tableau)
+## [Superstore Returns Analysis (Tableau)](superstore-returns-analysis-tableau)
 
-**Focus:** Operational analytics | Business insights | Data storytelling
+**Focus:** Operational analytics | Business insights | Data storytelling  
 
 Investigated the root causes of returned orders and built an interactive Tableau dashboard to identify patterns across products, regions, and time.
 
 **Key Skills**
 
-* Return rate analysis
-* Operational insights
-* Data storytelling
-* Dashboard design
+- Return rate analysis  
+- Operational insights  
+- Data storytelling  
+- Dashboard design  
 
 **Tools**
 
-Tableau
-
-[View Project](superstore-returns-analysis-tableau)
+Tableau  
 
 ---
 
@@ -76,21 +70,21 @@ Tableau
 
 **Data Analysis**
 
-* SQL
-* Excel / Google Sheets
-* Data exploration
-* Pivot tables
+- SQL  
+- Excel / Google Sheets  
+- Data exploration  
+- Pivot tables  
 
 **Analytics Methods**
 
-* Funnel analysis
-* Cohort analysis
-* Conversion analysis
-* User behavior analysis
-* Business insight generation
+- Funnel analysis  
+- Cohort analysis  
+- Conversion analysis  
+- User behavior analysis  
+- Business insight generation  
 
 **Data Visualization**
 
-* Power BI
-* Tableau
-* Dashboard design
+- Power BI  
+- Tableau  
+- Dashboard design
