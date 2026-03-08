@@ -20,7 +20,7 @@ Key focus:
 
 ---
 
-## 2. Product Funnel Sequence Analysis
+## 2. [Product Funnel Sequence Analysis](product-funnel-sequence-analysis)
 
 Evaluated user conversion across funnel stages using event-level data.
 Compared **Simple Funnel** calculations with **Sequence Funnel** logic to measure true user progression through the product journey.
@@ -34,7 +34,7 @@ Key focus:
 
 ---
 
-## 3. Superstore Returns Analysis (Tableau)
+## 3. [Superstore Returns Analysis (Tableau)](superstore-returns-analysis-tableau)
 
 Analyzed the root causes of returned orders and developed an interactive Tableau dashboard to identify return patterns across products, regions, and time.
 
