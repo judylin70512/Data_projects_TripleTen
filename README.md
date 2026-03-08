@@ -1,89 +1,96 @@
-# Data Analytics Portfolio
+# Business & Data Analytics Portfolio
 
-This repository showcases data analytics projects focused on solving business problems through **data analysis, visualization, and user behavior insights**.
+This repository showcases analytics projects focused on solving **business and product problems using data analysis, visualization, and user behavior insights**.
 
-The projects demonstrate experience in:
-
-* Product analytics
-* Funnel analysis
-* Retention analysis
-* Data visualization and dashboards
-
-Tools used include **SQL, Excel, Power BI, and Tableau**.
+My interests include **Product, Growth, and Marketing Analytics**, where data is used to understand customer behavior, improve conversion performance, and support data-driven business decisions.
 
 ---
 
 # Projects
 
-## 📊 Customer Retention Cohort Analysis (Power BI)
+## Customer Retention Cohort Analysis (Power BI)
 
-[View Project →](powerbi-customer-retention-analysis)
+**Focus:** Customer retention | Lifecycle analysis | Business insights
 
-![Power BI Dashboard](powerbi-customer-retention-analysis/dashboard.png)
+Analyzed customer retention patterns using cohort analysis to understand how user engagement evolves over time and identify opportunities to improve long-term retention.
 
-Analyzed customer retention trends using **cohort analysis** to identify churn patterns and opportunities to improve long-term engagement.
+**Key Skills**
 
-**Key Focus**
-
-* Cohort retention analysis
+* Cohort analysis
+* Retention analysis
 * Customer lifecycle insights
-* Interactive Power BI dashboard
+* Dashboard development
+
+**Tools**
+
+Power BI, Excel
+
+[View Project](powerbi-customer-retention-analysis)
 
 ---
 
-## 📈 Product Funnel Sequence Analysis
+## Product Funnel Sequence Analysis
 
-[View Project →](product-funnel-sequence-analysis)
+**Focus:** Conversion analysis | Product analytics | User behavior
 
-![Funnel Analysis](product-funnel-sequence-analysis/dashboard.png)
-
-Analyzed user behavior across a purchase funnel using **event-level data**.
+Analyzed user conversion across a purchase funnel using event-level data.
 Compared **Simple Funnel calculations** with **Sequence Funnel logic** to measure true user progression through the product journey.
 
-**Key Focus**
+**Key Skills**
 
-* Product funnel analysis
+* Funnel analysis
+* Conversion rate analysis
 * Event sequence validation
-* Conversion drop-off analysis
 * User behavior insights
 
+**Tools**
+
+Excel / Google Sheets
+
+[View Project](product-funnel-sequence-analysis)
+
 ---
 
-## 📉 Superstore Returns Analysis (Tableau)
+## Superstore Returns Analysis (Tableau)
 
-[View Project →](superstore-returns-analysis-tableau)
+**Focus:** Operational analytics | Business insights | Data storytelling
 
-![Tableau Dashboard](superstore-returns-analysis-tableau/dashboard.png)
+Investigated the root causes of returned orders and built an interactive Tableau dashboard to identify patterns across products, regions, and time.
 
-Explored the root causes of product returns and built an **interactive Tableau dashboard** to identify patterns across product categories, regions, and time.
-
-**Key Focus**
+**Key Skills**
 
 * Return rate analysis
-* Geographic insights
-* Interactive data storytelling dashboard
+* Operational insights
+* Data storytelling
+* Dashboard design
+
+**Tools**
+
+Tableau
+
+[View Project](superstore-returns-analysis-tableau)
 
 ---
 
-# Tools & Skills
+# Skills
 
 **Data Analysis**
 
 * SQL
 * Excel / Google Sheets
-* Pivot tables
 * Data exploration
-
-**Data Visualization**
-
-* Power BI
-* Tableau
-* Dashboard design
+* Pivot tables
 
 **Analytics Methods**
 
 * Funnel analysis
 * Cohort analysis
 * Conversion analysis
+* User behavior analysis
 * Business insight generation
 
+**Data Visualization**
+
+* Power BI
+* Tableau
+* Dashboard design
