@@ -88,7 +88,7 @@ The Excel file contains:
 
 ## Files
 
-[event_sequence_funnel_analysis.xlsx]（product-funnel-sequence-analysis/event_sequence_funnel_analysis.xlsx）
+[event_sequence_funnel_analysis.xls］（event_sequence_funnel_analysis.xlsx）
 
 ---
 
