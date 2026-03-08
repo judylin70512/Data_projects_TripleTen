@@ -8,7 +8,7 @@ The projects demonstrate experience in **data exploration, funnel analysis, rete
 
 # Projects
 
-## 1. Customer Retention Cohort Analysis (Power BI)
+## 1. [Customer Retention Cohort Analysis (Power BI)](powerbi-customer-retention-analysis)
 
 Analyzed customer retention trends using cohort analysis to identify churn patterns and opportunities to improve long-term user engagement.
 
